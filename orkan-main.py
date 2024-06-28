@@ -1,0 +1,1 @@
+print ("orospu çocu galatasaray")
